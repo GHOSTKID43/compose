@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">compose</string>
+    <string name="search_text">Cari Mobil</string>
+    <string name="back">Kembali</string>
+
+
+    <string name="add_favorite">Tambah ke Favorit</string>
+    <string name="delete_favorite">Hapus dari Favorit</string>
+    <string name="about_me">About</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_home">Home</string>
+    <string name="email_author">rizkykurniafandi@gmail.com</string>
+    <string name="name_author">Rizky Kurniafandi</string>
+    <string name="empty_favorite">Favorite Kosong</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+</resources>
